@@ -31,6 +31,7 @@ A powerful Retrieval-Augmented Generation (RAG) system that enables intelligent 
 
 ##📁 Project Structure
 
+```
 rag-document-qa/
 ├── 📂 data/                    # Document storage
 │   ├── 📄 alice.md
@@ -41,6 +42,7 @@ rag-document-qa/
 ├── 📄 requirements.txt         # Dependencies
 ├── 📄 .env                     # Environment variables
 └── 📄 README.md                # Documentation
+```
 
 ##📦 Dependencies
 
