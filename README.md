@@ -4,8 +4,6 @@ A powerful Retrieval-Augmented Generation (RAG) system that enables intelligent 
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://python.org)
 [![LangChain](https://img.shields.io/badge/langchain-0.3.27-green.svg)](https://langchain.com)
-[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 ---
 
