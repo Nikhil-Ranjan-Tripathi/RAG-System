@@ -1,0 +1,13 @@
+langchain==0.3.27
+langchain-core==0.3.72
+langchain-text-splitters==0.3.9
+langchain-community==0.3.27
+langchain-openai==0.3.28
+chromadb
+pypdf
+pillow
+sentence-transformers
+tiktoken
+python-dotenv
+beautifulsoup4
+requests
